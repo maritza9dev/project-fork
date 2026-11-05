@@ -1,7 +1,7 @@
 x = 2
 y = 3
 
-print (x + y)
+print (x / y)
 
-perkalian = x+y
-print(perkalian)
+pembagian = x/y
+print(pembagian)
